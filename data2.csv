@@ -1,0 +1,16 @@
+movieId,title,genres,ratings,director
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,4.5,malhar
+2,Jumanji (1995),Adventure|Children|Fantasy,4.0,pandya
+3,Grumpier Old Men (1995),Comedy|Romance,3.8,malhar
+4,Waiting to Exhale (1995),Comedy|Drama|Romance,4.2,pandya
+5,Father of the Bride Part II (1995),Comedy,3.5,family
+6,Heat (1995),Action|Crime|Thriller,4.7,malhar
+7,Sabrina (1995),Comedy|Romance,4.3,family
+8,Tom and Huck (1995),Adventure|Children,3.9,family
+9,Sudden Death (1995),Action,4.6,malhar
+10,GoldenEye (1995),Action|Adventure|Thriller,4.8,family
+11,American President The (1995),Comedy|Drama|Romance,4.4,family
+12,Dracula: Dead and Loving It (1995),Comedy|Horror,3.6,malhar
+13,Balto (1995),Adventure|Animation|Children,4.0,family
+14,Casino (1995),Crime|Drama,4.1,pandya
+15,Sense and Sensibility (1995),Drama|Romance,4.5,pandya
